@@ -1,0 +1,33 @@
+keshav print "Sin 45 is:"
+keshav sine 45 
+keshav print "cos 45 is:"
+keshav cosine 45 
+keshav print "tan 45 is:"
+keshav tan 45 
+keshav print "cosec 45 is:"
+keshav cosec 45 
+keshav print "sec 45 is:"
+keshav sec 45 
+keshav print "cot 45 is:"
+keshav cot 45 
+keshav print "asin 45 is:"
+keshav arcsin 45 
+
+keshav int a
+keshav int b
+keshav input #a
+keshav input #b
+
+keshav if a>b
+keshav print "True of if!"
+else
+keshav print "False of if!"
+endif
+
+keshav loop 5
+keshav print "loop"
+endloop
+
+keshav int c
+c=a+b
+keshav print #c
